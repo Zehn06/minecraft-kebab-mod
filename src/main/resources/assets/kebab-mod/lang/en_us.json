@@ -1,0 +1,41 @@
+{
+	"itemgroup.kebab-mod": "Kebab Shop",
+	
+	"item.kebab-mod.raw_chicken_doner": "Raw Chicken Doner",
+	"item.kebab-mod.raw_lamb_doner": "Raw Lamb Doner",
+	"item.kebab-mod.raw_beef_doner": "Raw Beef Doner",
+	
+	"item.kebab-mod.cooked_chicken_doner": "Cooked Chicken Doner",
+	"item.kebab-mod.cooked_lamb_doner": "Cooked Lamb Doner",
+	"item.kebab-mod.cooked_beef_doner": "Cooked Beef Doner",
+	
+	"item.kebab-mod.sliced_chicken_doner": "Sliced Chicken Doner",
+	"item.kebab-mod.sliced_lamb_doner": "Sliced Lamb Doner",
+	"item.kebab-mod.sliced_beef_doner": "Sliced Beef Doner",
+	
+	"item.kebab-mod.pita_bread": "Pita Bread",
+	"item.kebab-mod.lettuce": "Lettuce",
+	"item.kebab-mod.tomato": "Tomato",
+	"item.kebab-mod.onion": "Onion",
+	"item.kebab-mod.pickle": "Pickle",
+	
+	"item.kebab-mod.garlic_sauce": "Garlic Sauce",
+	"item.kebab-mod.hot_sauce": "Hot Sauce",
+	"item.kebab-mod.yogurt_sauce": "Yogurt Sauce",
+	
+	"item.kebab-mod.chicken_doner_wrap": "Chicken Doner Wrap",
+	"item.kebab-mod.lamb_doner_wrap": "Lamb Doner Wrap",
+	"item.kebab-mod.beef_doner_wrap": "Beef Doner Wrap",
+	
+	"item.kebab-mod.doner_knife": "Doner Knife",
+	"item.kebab-mod.turkish_lira": "Turkish Lira",
+	
+	"block.kebab-mod.doner_machine": "Doner Machine",
+	"block.kebab-mod.preparation_table": "Preparation Table",
+	"block.kebab-mod.display_counter": "Display Counter",
+	
+	"entity.kebab-mod.customer": "Customer",
+	
+	"container.kebab-mod.doner_machine": "Doner Machine",
+	"container.kebab-mod.preparation_table": "Preparation Table"
+}

@@ -1,0 +1,41 @@
+{
+	"itemgroup.kebab-mod": "Dönerci Dükkanı",
+	
+	"item.kebab-mod.raw_chicken_doner": "Çiğ Tavuk Döner",
+	"item.kebab-mod.raw_lamb_doner": "Çiğ Kuzu Döner",
+	"item.kebab-mod.raw_beef_doner": "Çiğ Dana Döner",
+	
+	"item.kebab-mod.cooked_chicken_doner": "Pişmiş Tavuk Döner",
+	"item.kebab-mod.cooked_lamb_doner": "Pişmiş Kuzu Döner",
+	"item.kebab-mod.cooked_beef_doner": "Pişmiş Dana Döner",
+	
+	"item.kebab-mod.sliced_chicken_doner": "Dilimlenmiş Tavuk Döner",
+	"item.kebab-mod.sliced_lamb_doner": "Dilimlenmiş Kuzu Döner",
+	"item.kebab-mod.sliced_beef_doner": "Dilimlenmiş Dana Döner",
+	
+	"item.kebab-mod.pita_bread": "Pide Ekmeği",
+	"item.kebab-mod.lettuce": "Marul",
+	"item.kebab-mod.tomato": "Domates",
+	"item.kebab-mod.onion": "Soğan",
+	"item.kebab-mod.pickle": "Turşu",
+	
+	"item.kebab-mod.garlic_sauce": "Sarımsak Sosu",
+	"item.kebab-mod.hot_sauce": "Acı Sos",
+	"item.kebab-mod.yogurt_sauce": "Yoğurt Sosu",
+	
+	"item.kebab-mod.chicken_doner_wrap": "Tavuk Döner Dürüm",
+	"item.kebab-mod.lamb_doner_wrap": "Kuzu Döner Dürüm",
+	"item.kebab-mod.beef_doner_wrap": "Dana Döner Dürüm",
+	
+	"item.kebab-mod.doner_knife": "Döner Bıçağı",
+	"item.kebab-mod.turkish_lira": "Türk Lirası",
+	
+	"block.kebab-mod.doner_machine": "Döner Makinesi",
+	"block.kebab-mod.preparation_table": "Hazırlama Masası",
+	"block.kebab-mod.display_counter": "Vitrin Tezgahı",
+	
+	"entity.kebab-mod.customer": "Müşteri",
+	
+	"container.kebab-mod.doner_machine": "Döner Makinesi",
+	"container.kebab-mod.preparation_table": "Hazırlama Masası"
+}

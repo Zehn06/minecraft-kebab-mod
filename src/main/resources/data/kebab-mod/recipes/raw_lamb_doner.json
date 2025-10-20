@@ -1,0 +1,17 @@
+{
+"type": "minecraft:crafting_shapeless",
+"ingredients": [
+{
+"item": "minecraft:mutton"
+},
+{
+"item": "minecraft:mutton"
+},
+{
+"item": "minecraft:mutton"
+}
+],
+"result": {
+"item": "kebab-mod:raw_lamb_doner"
+}
+}

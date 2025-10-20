@@ -1,0 +1,17 @@
+{
+"type": "minecraft:crafting_shapeless",
+"ingredients": [
+{
+"item": "minecraft:beef"
+},
+{
+"item": "minecraft:beef"
+},
+{
+"item": "minecraft:beef"
+}
+],
+"result": {
+"item": "kebab-mod:raw_beef_doner"
+}
+}

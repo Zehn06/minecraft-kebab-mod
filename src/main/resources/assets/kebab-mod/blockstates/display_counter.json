@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"": {
+			"model": "kebab-mod:block/display_counter"
+		}
+	}
+}

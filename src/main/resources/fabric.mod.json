@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "kebab-mod",
+	"version": "${version}",
+	"name": "Advanced Kebab Shop Mod",
+	"description": "Gelişmiş dönerci modu - Advanced kebab shop mod for Minecraft",
+	"authors": [
+		"Zehn06"
+	],
+	"contact": {
+		"homepage": "https://github.com/Zehn06/minecraft-kebab-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/kebab-mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.zehn06.kebabmod.KebabMod"
+		],
+		"client": [
+			"com.zehn06.kebabmod.KebabModClient"
+		]
+	},
+	"mixins": [
+		"kebab-mod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}

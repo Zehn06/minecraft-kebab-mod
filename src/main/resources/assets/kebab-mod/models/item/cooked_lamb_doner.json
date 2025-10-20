@@ -1,0 +1,6 @@
+{
+"parent": "minecraft:item/generated",
+"textures": {
+"layer0": "kebab-mod:item/cooked_lamb_doner"
+}
+}

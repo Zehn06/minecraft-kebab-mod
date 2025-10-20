@@ -1,0 +1,17 @@
+{
+"type": "minecraft:crafting_shapeless",
+"ingredients": [
+{
+"item": "minecraft:chicken"
+},
+{
+"item": "minecraft:chicken"
+},
+{
+"item": "minecraft:chicken"
+}
+],
+"result": {
+"item": "kebab-mod:raw_chicken_doner"
+}
+}

@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"PPP",
+		"W W",
+		"WWW"
+	],
+	"key": {
+		"P": {
+			"tag": "minecraft:planks"
+		},
+		"W": {
+			"tag": "minecraft:wooden_slabs"
+		}
+	},
+	"result": {
+		"item": "kebab-mod:preparation_table"
+	}
+}
