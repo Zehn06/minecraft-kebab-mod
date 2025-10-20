@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "kebabmod:block/preparation_table" },
+    "facing=south": { "model": "kebabmod:block/preparation_table", "y": 180 },
+    "facing=west": { "model": "kebabmod:block/preparation_table", "y": 270 },
+    "facing=east": { "model": "kebabmod:block/preparation_table", "y": 90 }
+  }
+}

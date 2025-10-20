@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "kebabmod",
+	"version": "${version}",
+	"name": "Kebab Mod",
+	"description": "Advanced Kebab Shop Mod with Döner Machine, NPCs and Economy System",
+	"authors": [
+		"Zehn06"
+	],
+	"contact": {
+		"homepage": "https://github.com/Zehn06/minecraft-kebab-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/kebabmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.zehn06.kebabmod.KebabMod"
+		],
+		"client": [
+			"com.zehn06.kebabmod.KebabModClient"
+		]
+	},
+	"mixins": [
+		"kebabmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.0",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}

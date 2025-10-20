@@ -1,0 +1,34 @@
+{
+	"itemgroup.kebab": "Kebab Mod",
+	
+	"item.kebabmod.raw_chicken_meat": "Raw Chicken Meat",
+	"item.kebabmod.raw_lamb_meat": "Raw Lamb Meat",
+	"item.kebabmod.raw_beef_meat": "Raw Beef Meat",
+	
+	"item.kebabmod.cooked_chicken_doner": "Cooked Chicken Doner",
+	"item.kebabmod.cooked_lamb_doner": "Cooked Lamb Doner",
+	"item.kebabmod.cooked_beef_doner": "Cooked Beef Doner",
+	
+	"item.kebabmod.pide_bread": "Pide Bread",
+	"item.kebabmod.lettuce": "Lettuce",
+	"item.kebabmod.tomato": "Tomato",
+	"item.kebabmod.onion": "Onion",
+	"item.kebabmod.pickle": "Pickle",
+	
+	"item.kebabmod.garlic_sauce": "Garlic Sauce",
+	"item.kebabmod.hot_sauce": "Hot Sauce",
+	"item.kebabmod.yogurt_sauce": "Yogurt Sauce",
+	
+	"item.kebabmod.chicken_doner_wrap": "Chicken Doner Wrap",
+	"item.kebabmod.lamb_doner_wrap": "Lamb Doner Wrap",
+	"item.kebabmod.beef_doner_wrap": "Beef Doner Wrap",
+	
+	"item.kebabmod.doner_knife": "Doner Knife",
+	"item.kebabmod.coin": "Coin",
+	
+	"block.kebabmod.doner_machine": "Doner Machine",
+	"block.kebabmod.preparation_table": "Preparation Table",
+	"block.kebabmod.display_counter": "Display Counter",
+	
+	"entity.kebabmod.customer": "Customer"
+}

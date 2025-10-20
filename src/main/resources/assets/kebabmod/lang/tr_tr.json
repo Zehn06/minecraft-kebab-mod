@@ -1,0 +1,34 @@
+{
+	"itemgroup.kebab": "Kebab Modu",
+	
+	"item.kebabmod.raw_chicken_meat": "Çiğ Tavuk Eti",
+	"item.kebabmod.raw_lamb_meat": "Çiğ Kuzu Eti",
+	"item.kebabmod.raw_beef_meat": "Çiğ Dana Eti",
+	
+	"item.kebabmod.cooked_chicken_doner": "Pişmiş Tavuk Döner",
+	"item.kebabmod.cooked_lamb_doner": "Pişmiş Kuzu Döner",
+	"item.kebabmod.cooked_beef_doner": "Pişmiş Dana Döner",
+	
+	"item.kebabmod.pide_bread": "Pide Ekmeği",
+	"item.kebabmod.lettuce": "Marul",
+	"item.kebabmod.tomato": "Domates",
+	"item.kebabmod.onion": "Soğan",
+	"item.kebabmod.pickle": "Turşu",
+	
+	"item.kebabmod.garlic_sauce": "Sarımsaklı Sos",
+	"item.kebabmod.hot_sauce": "Acı Sos",
+	"item.kebabmod.yogurt_sauce": "Yoğurtlu Sos",
+	
+	"item.kebabmod.chicken_doner_wrap": "Tavuk Döner Dürüm",
+	"item.kebabmod.lamb_doner_wrap": "Kuzu Döner Dürüm",
+	"item.kebabmod.beef_doner_wrap": "Dana Döner Dürüm",
+	
+	"item.kebabmod.doner_knife": "Döner Bıçağı",
+	"item.kebabmod.coin": "Altın",
+	
+	"block.kebabmod.doner_machine": "Döner Makinesi",
+	"block.kebabmod.preparation_table": "Hazırlama Masası",
+	"block.kebabmod.display_counter": "Vitrin/Tezgah",
+	
+	"entity.kebabmod.customer": "Müşteri"
+}
